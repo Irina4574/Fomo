@@ -1,0 +1,17 @@
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\bin\Debug\net8.0-windows\TicTacToeGameArchitecture.exe
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\bin\Debug\net8.0-windows\TicTacToeGameArchitecture.deps.json
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\bin\Debug\net8.0-windows\TicTacToeGameArchitecture.runtimeconfig.json
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\bin\Debug\net8.0-windows\TicTacToeGameArchitecture.dll
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\bin\Debug\net8.0-windows\TicTacToeGameArchitecture.pdb
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\obj\Debug\net8.0-windows\TicTacToeGameArchitecture.Properties.Resources.resources
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\obj\Debug\net8.0-windows\TicTacToeGameArchitecture.Form1.resources
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\obj\Debug\net8.0-windows\TicTacToeGameArchitecture.csproj.GenerateResource.cache
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\obj\Debug\net8.0-windows\TicTacToeGameArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\obj\Debug\net8.0-windows\TicTacToeGameArchitecture.AssemblyInfoInputs.cache
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\obj\Debug\net8.0-windows\TicTacToeGameArchitecture.AssemblyInfo.cs
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\obj\Debug\net8.0-windows\TicTacToeGameArchitecture.csproj.CoreCompileInputs.cache
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\obj\Debug\net8.0-windows\TicTacToeGameArchitecture.dll
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\obj\Debug\net8.0-windows\refint\TicTacToeGameArchitecture.dll
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\obj\Debug\net8.0-windows\TicTacToeGameArchitecture.pdb
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\obj\Debug\net8.0-windows\TicTacToeGameArchitecture.genruntimeconfig.cache
+D:\CSharp\Savedprojects\TicTacToeGameArchitecture\TicTacToeGameArchitecture\obj\Debug\net8.0-windows\ref\TicTacToeGameArchitecture.dll
